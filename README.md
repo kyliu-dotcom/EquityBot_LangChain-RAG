@@ -1,10 +1,12 @@
 # EquityBot: RAG-LangChain News Research Tool 📈
 
-An AI-powered chatbot built with LangChain and Streamlit that uses Retrieval-Augmented Generation (RAG) to answer questions about financial news and equity research by retrieving information from provided URLs.
+**AI Project** | **Retrieval-Augmented Generation with Large Language Models**
+
+An AI-powered chatbot built with LangChain and Streamlit that uses Retrieval-Augmented Generation (RAG) to answer questions about financial news and equity research by retrieving information from provided sources and generating context-aware responses.
 
 ## Overview
 
-EquityBot is an AI application that combines Large Language Models (LLMs) with retrieval-augmented generation to provide informed answers about financial news and equity research. Instead of relying solely on the LLM's training data, it retrieves relevant information from provided sources to generate more accurate, context-grounded responses.
+EquityBot is an AI application that combines Large Language Models (LLMs) with retrieval-augmented generation to provide informed answers about financial news and equity research. Instead of relying solely on the LLM's training data, it retrieves relevant information from your provided sources and uses that context to generate accurate, sourced answers.
 
 ## Features
 
